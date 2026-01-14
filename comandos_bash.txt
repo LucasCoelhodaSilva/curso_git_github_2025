@@ -1,1 +1,6 @@
-teste
+ls: Lista os arquivos e pastas do diretório atual.
+cd <nome>: Entra em uma pasta (ex: cd desktop). O comando cd .. serve para voltar uma pasta acima.
+pwd: Mostra o "caminho absoluto" de onde você está no computador (ex: C:/Users/Téo/Desktop).
+mkdir <nome>: Cria uma nova pasta (ex: mkdir curso_git_2025).
+cat <arquivo>: Exibe o conteúdo de um arquivo de texto diretamente no terminal.
+rm -rf: Remove arquivos ou pastas de forma forçada e recursiva (o instrutor alerta para ter muito cuidado com este comando)
