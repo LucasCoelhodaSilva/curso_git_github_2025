@@ -1,3 +1,4 @@
 esse arquivo contem arquivos secundários
 
--Comandos genericos
+-Comandos genéricos
+-mais comandos
